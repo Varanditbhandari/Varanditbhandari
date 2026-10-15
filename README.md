@@ -7,14 +7,7 @@
 
 *Turning data into insights, one line of code at a time.* 💜
 
-
-
-<a href="https://github.com/Muskanchauhan29">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=d76b9b&icon_color=d76b9b&text_color=6b5363&rank_icon=github" alt="Muskan's GitHub stats"/>
-</a>
-<a href="https://github.com/Muskanchauhan29">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanchauhan29&layout=compact&hide_border=true&bg_color=fff7fb&title_color=d76b9b&text_color=6b5363" alt="Most used programming languages"/>
-</a>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Cute cat typing on a laptop"/>
 
 
 <br/>
