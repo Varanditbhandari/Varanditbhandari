@@ -107,7 +107,7 @@ me.say_hello()
 
 
 <div align="center">
-  <img src="./assets/suspectful-cat.gif"
+  <img src="./suspect-cat.gif"
        width="180"
        alt="Suspicious cat 🐈‍⬛" />
   <p><em>me checking my code after it says “no errors” 💀</em></p>
