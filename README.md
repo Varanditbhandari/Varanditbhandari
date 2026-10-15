@@ -7,7 +7,12 @@
 
 *Turning data into insights, one line of code at a time.* 💜
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://tenor.com/search/computer-work-gifs" width="280" alt="Cute cat typing on a computer" />
+
+<a href="https://tenor.com/search/computer-work-gifs">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+       width="280"
+       alt="Cute computer work animation — click to explore GIFs on Tenor" />
+</a>
 
 <br/>
 
