@@ -105,7 +105,15 @@ me.say_hello()
 
 *Keep learning, keep building, keep growing.* 🌱
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="160" alt="Cute animated character" />
+
+<div align="center">
+  <a href="https://tenor.com/en-GB/view/cat-with-wiered-and-cute-reactions-suspectful-cat-rewar-cat-gif-10208137724561377929">
+    <img src="https://media.tenor.com/"
+         width="180"
+         alt="Suspicious cat with weird and cute reactions 🐈‍⬛" />
+  </a>
+  <p><em>me checking my code after it says “no errors” 💀</em></p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:9370DB,100:FFB6C1&height=100&section=footer" width="100%" />
 
