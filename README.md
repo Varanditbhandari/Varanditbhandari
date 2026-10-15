@@ -8,14 +8,13 @@
 *Turning data into insights, one line of code at a time.* 💜
 
 
-<div align="center">
-  <a href="https://pin.it/4E03RxXV5">
-    <img src="./assets/cat-typing.gif"
-         width="280"
-         alt="Cute cat typing on a laptop 🐱💻" />
-  </a>
-  <p><em>me pretending to understand my code at 2 AM 🐱</em></p>
-</div>
+
+<a href="https://github.com/Muskanchauhan29">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=d76b9b&icon_color=d76b9b&text_color=6b5363&rank_icon=github" alt="Muskan's GitHub stats"/>
+</a>
+<a href="https://github.com/Muskanchauhan29">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanchauhan29&layout=compact&hide_border=true&bg_color=fff7fb&title_color=d76b9b&text_color=6b5363" alt="Most used programming languages"/>
+</a>
 
 
 <br/>
