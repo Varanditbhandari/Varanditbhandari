@@ -8,11 +8,15 @@
 *Turning data into insights, one line of code at a time.* 💜
 
 
-<a href="https://tenor.com/search/computer-work-gifs">
-  <img src= "https://pin.it/4E03RxXV5"
-       width="280"
-       alt="Cute computer work animation — click to explore GIFs on Tenor" />
-</a>
+<div align="center">
+  <a href="https://pin.it/4E03RxXV5">
+    <img src="./assets/cat-typing.gif"
+         width="280"
+         alt="Cute cat typing on a laptop 🐱💻" />
+  </a>
+  <p><em>me pretending to understand my code at 2 AM 🐱</em></p>
+</div>
+
 
 <br/>
 
