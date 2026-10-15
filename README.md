@@ -107,11 +107,9 @@ me.say_hello()
 
 
 <div align="center">
-  <a href="https://tenor.com/en-GB/view/cat-with-wiered-and-cute-reactions-suspectful-cat-rewar-cat-gif-10208137724561377929">
-    <img src="https://media.tenor.com/"
-         width="180"
-         alt="Suspicious cat with weird and cute reactions 🐈‍⬛" />
-  </a>
+  <img src="./assets/suspectful-cat.gif"
+       width="180"
+       alt="Suspicious cat 🐈‍⬛" />
   <p><em>me checking my code after it says “no errors” 💀</em></p>
 </div>
 
