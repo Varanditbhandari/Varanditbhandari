@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2749,50:5265A8,100:B8B8E8&height=160&section=header&text=Hey,%20I'm%20Your%20Name%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2749,50:5265A8,100:B8B8E8&height=170&section=header&text=Hey,%20I'm%20YOUR_NAME%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Profile banner"/>
 
 ### a little about me ✦
 
@@ -15,45 +15,48 @@
 
 **languages & data**
 
-![Python](https://img.shields.io/badge/Python-DCE7FF?style=flat-square&logo=python&logoColor=34446A)
-![SQL](https://img.shields.io/badge/SQL-D9DDF7?style=flat-square&logo=mysql&logoColor=34446A)
-![Java](https://img.shields.io/badge/Java-E6DDF7?style=flat-square&logo=openjdk&logoColor=34446A)
-![Pandas](https://img.shields.io/badge/Pandas-D9DDF7?style=flat-square&logo=pandas&logoColor=34446A)
-![NumPy](https://img.shields.io/badge/NumPy-DCE7FF?style=flat-square&logo=numpy&logoColor=34446A)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**data science & visualization**
+**data analysis & visualization**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-E6DDF7?style=flat-square&logo=scikitlearn&logoColor=34446A)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-DCE7FF?style=flat-square&logo=python&logoColor=34446A)
-![Seaborn](https://img.shields.io/badge/Seaborn-D9DDF7?style=flat-square&logo=python&logoColor=34446A)
-![Excel](https://img.shields.io/badge/Excel-DDF2E5?style=flat-square&logo=microsoftexcel&logoColor=34446A)
-![Power BI](https://img.shields.io/badge/Power%20BI-FFF0C9?style=flat-square&logo=powerbi&logoColor=34446A)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=flat-square)
 
-**tools**
+**machine learning & tools**
 
-![Git](https://img.shields.io/badge/Git-E6DDF7?style=flat-square&logo=git&logoColor=34446A)
-![GitHub](https://img.shields.io/badge/GitHub-DCE7FF?style=flat-square&logo=github&logoColor=34446A)
-![VS Code](https://img.shields.io/badge/VS%20Code-D9DDF7?style=flat-square&logo=visualstudiocode&logoColor=34446A)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFE6D5?style=flat-square&logo=jupyter&logoColor=34446A)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### ✦ my GitHub space
+### 🌙 my GitHub corner
 
 <a href="https://github.com/YOUR_USERNAME">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F5F5FF&title_color=5969A8&icon_color=7C83D2&text_color=414768" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F5F5FF&title_color=5969A8&icon_color=7C83D2&text_color=414768" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/YOUR_USERNAME">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F5F5FF&title_color=5969A8&text_color=414768" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F5F5FF&title_color=5969A8&text_color=414768" alt="Most used languages"/>
 </a>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=F5F5FF&color=5969A8&line=9BA8E8&point=5969A8&area=true&hide_border=true" width="95%" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=F5F5FF&color=5969A8&line=9BA8E8&point=5969A8&area=true&hide_border=true" width="95%" alt="GitHub contribution graph"/>
 
-### 🌙 currently exploring
+### ✦ currently exploring
 
-`Data Analysis` · `Data Science` · `Machine Learning` · `EDA` · `Data Visualization`
+`Data Analysis` · `Data Science` · `EDA` · `Machine Learning` · `Data Visualization`
 
 <br/>
+
+**let's connect ✨**
 
 <a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
 <a href="https://www.linkedin.com/">LinkedIn</a> ·
@@ -61,9 +64,9 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/13HgwGs必v1HFW/giphy.gif" width="180" alt="Coding animation"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
 
-*quietly building something awesome ✨*
+*quietly building something awesome 🌙*
 
 **Thanks for stopping by! 💙**
 
