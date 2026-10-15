@@ -1,73 +1,111 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2749,50:5265A8,100:B8B8E8&height=170&section=header&text=Hey,%20I'm%20YOUR_NAME%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:9370DB,100:FFB6C1&height=200&section=header&text=Hey,%20I'm%20Varandit%20🌙&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### a little about me ✦
+### ✨ Computer Science Student | Data Analytics & Data Science ✨
 
-🎓 4th-year Computer Science Engineering student  
-📊 Exploring Data Analysis & Data Science  
-🐍 Working with Python, SQL & Machine Learning  
-🧠 Curious about data, patterns, and solving real-world problems  
-🌱 Learning, building, and improving every day
+*Turning data into insights, one line of code at a time.* 💜
 
-### ✧ my tech stack
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Cute cat typing on a computer" />
 
-**languages & data**
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varanditbhandari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+## 🌷 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Varandit Bhandari"
+        self.education = "4th Year CSE Student"
+        self.interests = [
+            "Data Analysis",
+            "Data Science",
+            "Machine Learning"
+        ]
+        self.currently_learning = [
+            "Python",
+            "SQL",
+            "Machine Learning"
+        ]
+        self.goal = "Turn data into meaningful insights"
+
+    def say_hello(self):
+        print("Thanks for visiting my profile! 💜")
+
+
+me = Developer()
+me.say_hello()
+```
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### 📊 Data Analysis & Visualization
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**data analysis & visualization**
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logo=python&logoColor=white)
 
-**machine learning & tools**
+### 🤖 Machine Learning
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### ⚙️ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### 🌙 my GitHub corner
+---
 
-<a href="https://github.com/Varanditbhandari">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Varanditbhandari&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=d76b9b&icon_color=d76b9b&text_color=6b5363&rank_icon=github" alt="Vasu's GitHub stats"/>
-</a>
-<a href="https://github.com/Varanditbhandari">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanditbhandari&layout=compact&hide_border=true&bg_color=fff7fb&title_color=d76b9b&text_color=6b5363" alt="Most used programming languages"/>
-</a>
+## 📈 GitHub Stats
 
-<br/>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=F5F5FF&color=5969A8&line=9BA8E8&point=5969A8&area=true&hide_border=true" width="95%" alt="GitHub contribution graph"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Varanditbhandari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Varandit's GitHub statistics" />
 
-### ✦ currently exploring
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanditbhandari&layout=compact&theme=tokyonight&hide_border=true" alt="Varandit's most used languages" />
 
-`Data Analysis` · `Data Science` · `EDA` · `Machine Learning` · `Data Visualization`
+</div>
 
-<br/>
+---
 
-**let's connect ✨**
+## 🌌 My Contribution Graph
 
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
-<a href="https://www.linkedin.com/">LinkedIn</a> ·
-<a href="mailto:YOUR_EMAIL">Email</a>
+<div align="center">
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varanditbhandari&theme=tokyo-night&hide_border=true" width="100%" alt="Varandit's GitHub contribution graph" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
+</div>
 
-*quietly building something awesome 🌙*
+---
 
-**Thanks for stopping by! 💙**
+<div align="center">
+
+### 💜 Thanks for stopping by!
+
+*Keep learning, keep building, keep growing.* 🌱
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="160" alt="Cute animated character" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:9370DB,100:FFB6C1&height=100&section=footer" width="100%" />
 
 </div>
