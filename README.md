@@ -39,11 +39,11 @@
 
 ### 🌙 my GitHub corner
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F5F5FF&title_color=5969A8&icon_color=7C83D2&text_color=414768" alt="GitHub stats"/>
+<a href="https://github.com/Varanditbhandari">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Varanditbhandari&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=d76b9b&icon_color=d76b9b&text_color=6b5363&rank_icon=github" alt="Vasu's GitHub stats"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F5F5FF&title_color=5969A8&text_color=414768" alt="Most used languages"/>
+<a href="https://github.com/Varanditbhandari">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanditbhandari&layout=compact&hide_border=true&bg_color=fff7fb&title_color=d76b9b&text_color=6b5363" alt="Most used programming languages"/>
 </a>
 
 <br/>
